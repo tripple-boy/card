@@ -167,7 +167,7 @@ className="opacity-1"
     </div> 
     {/* product title  */}
     <h2 className="product-title">
-    Best Camera
+    Red Label
     </h2>
     {/* product price */}
     <div>
@@ -234,7 +234,7 @@ className="opacity-1"
     </div> 
     {/* product title  */}
     <h2 className="product-title">
-    Best Camera
+    Shoes
     </h2>
     {/* product price */}
     <div>
@@ -301,7 +301,7 @@ className="opacity-1"
     </div> 
     {/* product title  */}
     <h2 className="product-title">
-    Best Camera
+    Headphone
     </h2>
     {/* product price */}
     <div>
@@ -368,7 +368,7 @@ className="opacity-1"
     </div> 
     {/* product title  */}
     <h2 className="product-title">
-    Best Camera
+    Cocacola
     </h2>
     {/* product price */}
     <div>
